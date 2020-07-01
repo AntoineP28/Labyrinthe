@@ -5,7 +5,7 @@ import random
 
 
 class Item:
-		
+		""" Classe permettant de placer les items de façon aléatoire"""
 
 	def __init__(self, image,level):
 		self.image = image
